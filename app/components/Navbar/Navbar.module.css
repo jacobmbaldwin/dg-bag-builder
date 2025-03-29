@@ -1,0 +1,6 @@
+.nav {
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+    background-color: orange;
+}
